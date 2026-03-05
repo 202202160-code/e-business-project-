@@ -1,9 +1,3 @@
-# Clothes Store E-Commerce Website
-
-## Project Description
-
-This project is an e-commerce web application for selling clothes online.
-Users can browse products, add items to the shopping cart, and complete the checkout process.
 
 ## Business Model
 
@@ -24,15 +18,7 @@ Node.js with Express.js
 
 MongoDB
 
-## Features
-
-* User registration and login
-* Browse clothing products
-* Product details page
-* Add products to shopping cart
-* Checkout and order creation
-* Admin can add and manage products
-
+#
 ## Team Members 
 
 mohamed ibrahim 202202160
@@ -44,6 +30,3 @@ mohamed ibrahim 202202160
 
 EC 385 – E-Business
 
-## Repository Setup
-
-Course instructors are added as collaborators to monitor project progress.
