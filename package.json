@@ -1,0 +1,25 @@
+{
+  "name": "e-business-project-",
+  "version": "1.0.0",
+  "description": "B2C (Business-to-Consumer)\r The store sells clothes directly to customers through the website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/202202160-code/e-business-project-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/202202160-code/e-business-project-/issues"
+  },
+  "homepage": "https://github.com/202202160-code/e-business-project-#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
